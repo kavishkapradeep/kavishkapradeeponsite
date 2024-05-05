@@ -68,3 +68,111 @@
     margin-right: auto;
     border-bottom-left-radius: 25%;
 }
+#aboutHead{
+    padding-top: 20px;
+    padding-left: 50px;
+    font-style: italic;
+}
+
+#aboutPara{
+    font-size: 18px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 20px;
+    font-style: italic;
+}
+
+.aboutHome{
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(1, 39, 255);
+    width: 150px;
+    font-size: 20px;
+    padding: 5px;
+    cursor: pointer;
+    display: block;
+    margin-top: 65%;
+    margin-left: auto;
+    margin-right: 20px;
+    
+}
+.aboutHome:hover{
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-bottom-left-radius: 75%;
+    transition-duration: 0.4s;
+}
+
+#signUp{
+    background-color: rgb(233, 238, 238);
+    width: 50%;
+    height: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-left-radius: 25%;
+
+}
+
+#signForm{
+    padding-left: 35%;
+    padding-top: 10px;
+}
+
+#acreate{
+    font-size: 24px;
+    padding-left: 20px;
+    top: 30px;
+}
+#nameInput{
+    width: 60%;
+    font-size: 24px;
+}
+#dob{
+    width: 40%;
+    font-size: 24px;
+}
+
+#email{
+    width: 60%;
+    font-size: 24px;
+}
+#npass{
+    width: 48%;
+    font-size: 24px;
+}
+#cpass{
+    width: 42%;
+    font-size: 24px;
+}
+
+.psignup{
+    width: 100px;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    margin: 10%;
+}
+.psignup:hover{
+    background-color: lightgreen;
+    border-bottom-right-radius: 50%;
+    transition-duration: 0.4s;
+}
+.psignup:active{
+    background-color: rgb(233, 53, 53);
+}
+.signHome:hover{
+    background-color: lightgreen;
+    border-bottom-right-radius: 50%;
+    transition-duration: 0.4s;
+}
+.signHome:active{
+    background-color: rgb(233, 53, 53);
+}
+.signHome{
+    width: 100px;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    margin: 10%;
+}

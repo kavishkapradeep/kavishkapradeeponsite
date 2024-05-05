@@ -82,6 +82,24 @@ header{
     z-index: 15;
 }
 
+.top{
+    
+    
+
+}
+
+.top1{
+    word-spacing: 10px;
+
+}
+a.top1:hover{ text-decoration: underline;
+    color: green;
+   
+}
+
+a.top1:active{
+    color: rgb(234, 18, 18);
+}
 
 a.top:hover{ text-decoration: underline;
     color: green;

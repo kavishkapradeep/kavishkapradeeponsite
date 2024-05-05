@@ -13,3 +13,7 @@ function linkedIn(){
 function contact(){
     window.location.replace("contact.html");
 }
+
+function aboutHome(){
+    location.replace("main.html")
+}
